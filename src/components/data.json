@@ -1,0 +1,686 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Cheap bench sofa GSB-01",
+      "img": "./img/home/home1.jpg",
+      "prices": "7000",
+      "discount": "",
+      "categoryId": "1",
+      "categorySonId": "6"
+    },
+    {
+      "id": 2,
+      "name": "Relaxing reclining- HOME FURNITURE ",
+      "img": "./img/home/home2.jpg",
+      "prices": "9000",
+      "discount": "8500",
+      "categoryId": "1",
+      "categorySonId": "7"
+    },
+    {
+      "id": 3,
+      "name": "Luxury Garden Coffee Table and Chair Model, Cheapest Prices ",
+      "img": "./img/home/home3.jpg",
+      "prices": "6000",
+      "discount": "",
+      "categoryId": "1",
+      "categorySonId": "8"
+    },
+    {
+      "id": 4,
+      "name": "FIVO High-end Luxury Wardrobe",
+      "img": "./img/home/home4.jpg",
+      "prices": "8200",
+      "discount": "8100",
+      "categoryId": "1",
+      "categorySonId": "9"
+    },
+    {
+      "id": 5,
+      "name": "Decorative lamp TT29 has a luxurious design",
+      "img": "./img/home/home5.jpg",
+      "prices": "8400",
+      "discount": "",
+      "categoryId": "1",
+      "categorySonId": "10"
+    },
+    {
+      "id": 6,
+      "name": "Classic wall lamp with 3 luxurious gold-plated candle arms",
+      "img": "./img/home/home6.jpg",
+      "prices": "7800",
+      "discount": "",
+      "categoryId": "1",
+      "categorySonId": "11"
+    },
+    {
+      "id": 7,
+      "name": "High-end luxury nasturtium decorative floor lamp",
+      "img": "./img/home/home7.jpg",
+      "prices": "7800",
+      "discount": "",
+      "categoryId": "1",
+      "categorySonId": "12"
+    },
+    {
+      "id": 8,
+      "name": "Copper table lamp for living room and luxurious bedroom",
+      "img": "./img/home/home8.jpg",
+      "prices": "7800",
+      "discount": "",
+      "categoryId": "1",
+      "categorySonId": "13"
+    },
+    {
+      "id": 9,
+      "name": "Decorative Led Lights Outdoor Landscape Lighting",
+      "img": "./img/home/home9.jpg",
+      "prices": "7000",
+      "discount": "",
+      "categoryId": "2",
+      "categorySonId": "14"
+    },
+    {
+      "id": 10,
+      "name": "Curtains for luxury villas, curtains imported from Korea",
+      "img": "./img/home/home10.jpg",
+      "prices": "9000",
+      "discount": "8500",
+      "categoryId": "2",
+      "categorySonId": "15"
+    },
+    {
+      "id": 11,
+      "name": "Luxurious gold-plated crystal flower vase with silk flowers",
+      "img": "./img/home/home11.jpg",
+      "prices": "6000",
+      "discount": "",
+      "categoryId": "2",
+      "categorySonId": "16"
+    },
+    {
+      "id": 12,
+      "name": "Gold Plated Lavabo Faucet with Artistic Patterns",
+      "img": "./img/home/home12.jpg",
+      "prices": "8200",
+      "discount": "8100",
+      "categoryId": "2",
+      "categorySonId": "17"
+    },
+    {
+      "id": 13,
+      "name": "Beautiful Modern Dressing Table HHP-BP011 Luxurious",
+      "img": "./img/home/home13.jpg",
+      "prices": "8400",
+      "discount": "",
+      "categoryId": "2",
+      "categorySonId": "18"
+    },
+    {
+      "id": 14,
+      "name": "Luxurious bathroom interior with comfortable bathtub",
+      "img": "./img/home/home14.jpg",
+      "prices": "7800",
+      "discount": "",
+      "categoryId": "2",
+      "categorySonId": "19"
+    },
+    {
+      "id": 15,
+      "name": "PVC sink cabinet, high-class solid stone surface - luxurious",
+      "img": "./img/home/home15.jpg",
+      "prices": "7800",
+      "discount": "",
+      "categoryId": "2",
+      "categorySonId": "20"
+    },
+    {
+      "id": 16,
+      "name": "OVAL Bathroom Mirror ROYAL high quality LED touch light",
+      "img": "./img/home/home16.jpg",
+      "prices": "7800",
+      "discount": "",
+      "categoryId": "2",
+      "categorySonId": "21"
+    },
+    {
+      "id": 17,
+      "name": "Sofas and Couches",
+      "img": "./img/shop/sp1.jpg",
+      "prices": "7600",
+      "categoryId": "0",
+      "categorySonId": "22"
+    },
+    {
+      "id": 18,
+      "name": "Sofas and Couches",
+      "img": "./img/shop/sp1.3.jpg",
+      "prices": "7600",
+      "categoryId": "0",
+      "categorySonId": "23"
+    },
+    {
+      "id": 19,
+      "name": "Chairs and Recliners",
+      "img": "./img/shop/sp2.jpg",
+      "prices": "8600",
+      "categoryId": "0",
+      "categorySonId": "24"
+    },
+
+    {
+      "id": 20,
+      "name": "Chairs and Recliners",
+      "img": "./img/shop/sp1.1.jpg",
+      "prices": "8600",
+      "categoryId": "0",
+      "categorySonId": "25"
+    },
+    {
+      "id": 21,
+      "name": "Tables",
+      "img": "./img/shop/sp3.jpg",
+      "prices": "9800",
+      "categoryId": "0",
+      "categorySonId": "6"
+    },
+    {
+      "id": 22,
+      "name": "Tables",
+      "img": "./img/shop/sp3.1.jpg",
+      "prices": "9800",
+      "categoryId": "3",
+      "categorySonId": "7"
+    },
+    {
+      "id": 23,
+      "name": "Beds and Mattresses",
+      "img": "./img/shop/sp4.jpg",
+      "prices": "12000",
+      "categoryId": "4",
+      "categorySonId": "8"
+    },
+    {
+      "id": 24,
+      "name": "Beds and Mattresses",
+      "img": "./img/shop/sp4.1.jpg",
+      "prices": "12000",
+      "categoryId": "5",
+      "categorySonId": "9"
+    },
+    {
+      "id": 25,
+      "name": "Ceiling Lights",
+      "img": "./img/shop/sp5.jpg",
+      "prices": "12000",
+      "categoryId": "1",
+      "categorySonId": "10"
+    },
+    {
+      "id": 26,
+      "name": "Ceiling Lights",
+      "img": "./img/shop/sp5.1.jpg",
+      "prices": "12000",
+      "categoryId": "1",
+      "categorySonId": "11"
+    },
+    {
+      "id": 27,
+      "name": "Wall Lights",
+      "img": "./img/shop/sp6.jpg",
+      "prices": "7800",
+      "categoryId": "2",
+      "categorySonId": "12"
+    },
+    {
+      "id": 28,
+      "name": "Wall Lights",
+      "img": "./img/shop/sp6.1.jpg",
+      "prices": "7800",
+      "categoryId": "2",
+      "categorySonId": "13"
+    },
+    {
+      "id": 29,
+      "name": "Floor Lamps",
+      "img": "./img/shop/sp7.jpg",
+      "prices": "9800",
+      "categoryId": "3",
+      "categorySonId": "14"
+    },
+    {
+      "id": 30,
+      "name": "Floor Lamps",
+      "img": "./img/shop/sp7.1.jpg",
+      "prices": "9800",
+      "categoryId": "3",
+      "categorySonId": "15"
+    },
+    {
+      "id": 31,
+      "name": "Table Lamps",
+      "img": "./img/shop/sp8.jpg",
+      "prices": "5600",
+      "categoryId": "16",
+      "categorySonId": "17"
+    },
+    {
+      "id": 32,
+      "name": "Table Lamps",
+      "img": "./img/shop/sp8.1.jpg",
+      "prices": "5600",
+      "categoryId": "4",
+      "categorySonId": "18"
+    },
+    {
+      "id": 33,
+      "name": "Outdoor Lighting",
+      "img": "./img/shop/sp9.jpg",
+      "prices": "11000",
+      "categoryId": "5",
+      "categorySonId": "19"
+    },
+    {
+      "id": 34,
+      "name": "Outdoor Lighting",
+      "img": "./img/shop/sp9.1.jpg",
+      "prices": "11000",
+      "categoryId": "5",
+      "categorySonId": "20"
+    },
+    {
+      "id": 35,
+      "name": "Rugs and Carpets",
+      "img": "./img/shop/sp10.jpg",
+      "prices": "14000",
+      "categoryId": "1",
+      "categorySonId": "21"
+    },
+    {
+      "id": 36,
+      "name": "Rugs and Carpets",
+      "img": "./img/shop/sp10.1.jpg",
+      "prices": "14000",
+      "categoryId": "1",
+      "categorySonId": "22"
+    },
+    {
+      "id": 37,
+      "name": "Curtains and Blinds",
+      "img": "./img/shop/sp11.jpg",
+      "prices": "6500",
+      "categoryId": "2",
+      "categorySonId": "23"
+    },
+    {
+      "id": 38,
+      "name": "Curtains and Blinds",
+      "img": "./img/shop/sp11.1.jpg",
+      "prices": "6500",
+      "categoryId": "2",
+      "categorySonId": "24"
+    },
+    {
+      "id": 39,
+      "name": "Wall Art and Mirrors",
+      "img": "./img/shop/sp12.jpg",
+      "prices": "15000",
+      "categoryId": "3",
+      "categorySonId": "25"
+    },
+    {
+      "id": 40,
+      "name": "Wall Art and Mirrors",
+      "img": "./img/shop/sp12.1.jpg",
+      "prices": "15000",
+      "categoryId": "3",
+      "categorySonId": "6"
+    },
+    {
+      "id": 41,
+      "name": "Cushions and Throws",
+      "img": "./img/shop/sp13.jpg",
+      "prices": "9800",
+      "categoryId": "4",
+      "categorySonId": "7"
+    },
+    {
+      "id": 42,
+      "name": "Cushions and Throws",
+      "img": "./img/shop/sp13.1.jpg",
+      "prices": "9800",
+      "categoryId": "4",
+      "categorySonId": "8"
+    },
+    {
+      "id": 43,
+      "name": "Vases and Plant Pots",
+      "img": "./img/shop/sp14.jpg",
+      "prices": "12000",
+      "categoryId": "5",
+      "categorySonId": "9"
+    },
+    {
+      "id": 44,
+      "name": "Vases and Plant Pots",
+      "img": "./img/shop/sp14.1.jpg",
+      "prices": "12000",
+      "categoryId": "5",
+      "categorySonId": "10"
+    },
+    {
+      "id": 45,
+      "name": "Cabinets and Pantries",
+      "img": "./img/shop/sp15.jpg",
+      "prices": "7800",
+      "categoryId": "1",
+      "categorySonId": "11"
+    },
+    {
+      "id": 46,
+      "name": "Cabinets and Pantries",
+      "img": "./img/shop/sp15.1.jpg",
+      "prices": "7800",
+      "categoryId": "1",
+      "categorySonId": "12"
+    },
+    {
+      "id": 47,
+      "name": "Countertops",
+      "img": "./img/shop/sp16.jpg",
+      "prices": "9000",
+      "categoryId": "2",
+      "categorySonId": "13"
+    },
+    {
+      "id": 48,
+      "name": "Countertops",
+      "img": "./img/shop/sp16.1.jpg",
+      "prices": "9000",
+      "categoryId": "2",
+      "categorySonId": "14"
+    },
+    {
+      "id": 49,
+      "name": "Sinks and Faucets",
+      "img": "./img/shop/sp17.jpg",
+      "prices": "9000",
+      "categoryId": "3",
+      "categorySonId": "15"
+    },
+    {
+      "id": 50,
+      "name": "Sinks and Faucets",
+      "img": "./img/shop/sp17.1.jpg",
+      "prices": "9000",
+      "categoryId": "3",
+      "categorySonId": "16"
+    },
+    {
+      "id": 51,
+      "name": "Kitchen Islands and Carts",
+      "img": "./img/shop/sp18.jpg",
+      "prices": "10000",
+      "categoryId": "4",
+      "categorySonId": "17"
+    },
+    {
+      "id": 52,
+      "name": "Kitchen Islands and Carts",
+      "img": "./img/shop/sp18.1.jpg",
+      "prices": "10000",
+      "categoryId": "4",
+      "categorySonId": "18"
+    },
+    {
+      "id": 53,
+      "name": "Backsplashes",
+      "img": "./img/shop/sp19.jpg",
+      "prices": "20000",
+      "categoryId": "5",
+      "categorySonId": "19"
+    },
+    {
+      "id": 54,
+      "name": "Backsplashes",
+      "img": "./img/shop/sp19.1.jpg",
+      "prices": "20000",
+      "categoryId": "5",
+      "categorySonId": "20"
+    },
+    {
+      "id": 55,
+      "name": "Vanities and Cabinets",
+      "img": "./img/shop/sp20.jpg",
+      "prices": "15040",
+      "categoryId": "1",
+      "categorySonId": "21"
+    },
+    {
+      "id": 56,
+      "name": "Vanities and Cabinets",
+      "img": "./img/shop/sp20.1.jpg",
+      "prices": "15040",
+      "categoryId": "1",
+      "categorySonId": "22"
+    },
+    {
+      "id": 57,
+      "name": "Showers and Bathtubs",
+      "img": "./img/shop/sp21.jpg",
+      "prices": "19000",
+      "categoryId": "2",
+      "categorySonId": "23"
+    },
+    {
+      "id": 58,
+      "name": "Showers and Bathtubs",
+      "img": "./img/shop/sp21.1.jpg",
+      "prices": "19000",
+      "categoryId": "2",
+      "categorySonId": "24"
+    },
+    {
+      "id": 59,
+      "name": "Toilets and Bidets",
+      "img": "./img/shop/sp22.jpg",
+      "prices": "5600",
+      "categoryId": "3",
+      "categorySonId": "25"
+    },
+    {
+      "id": 60,
+      "name": "Toilets and Bidets",
+      "img": "./img/shop/sp22.1.jpg",
+      "prices": "5600",
+      "categoryId": "3",
+      "categorySonId": "26"
+    },
+    {
+      "id": 61,
+      "name": "Bathroom Sinks",
+      "img": "./img/shop/sp23.jpg",
+      "prices": "3400",
+      "categoryId": "4",
+      "categorySonId": "27"
+    },
+    {
+      "id": 62,
+      "name": "Bathroom Sinks",
+      "img": "./img/shop/sp23.1.jpg",
+      "prices": "3400",
+      "categoryId": "4",
+      "categorySonId": "28"
+    },
+    {
+      "id": 63,
+      "name": "Mirrors and Medicine Cabinets",
+      "img": "./img/shop/sp24.jpg",
+      "prices": "10000",
+      "categoryId": "5",
+      "categorySonId": "6"
+    },
+    {
+      "id": 67,
+      "name": "Mirrors and Medicine Cabinets",
+      "img": "./img/shop/sp24.1.jpg",
+      "prices": "10000",
+      "categoryId": "5",
+      "categorySonId": "7"
+    }
+  ],
+
+  "categories": [
+    {
+      "name": "Furniture",
+      "id": 1,
+      "parentId": null
+    },
+    {
+      "name": "Decor",
+      "id": 2,
+      "parentId": null
+    },
+    {
+      "name": "Lighting",
+      "id": 3,
+      "parentId": null
+    },
+    {
+      "name": "Kitchen",
+      "id": 4,
+      "parentId": null
+    },
+    {
+      "name": "Bathroom",
+      "id": 5,
+      "parentId": null
+    },
+    {
+      "name": "Sofas and Couches",
+      "id": 6,
+      "parentId": 1
+    },
+    {
+      "name": "Chairs and Recliners",
+      "id": 7,
+      "parentId": 1
+    },
+    {
+      "name": "Tables",
+      "id": 8,
+      "parentId": 1
+    },
+    {
+      "name": "Beds and Mattresses",
+      "id": 9,
+      "parentId": 1
+    },
+    {
+      "name": "Ceiling Lights",
+      "id": 10,
+      "parentId": 2
+    },
+    {
+      "name": "Wall Lights",
+      "id": 11,
+      "parentId": 2
+    },
+    {
+      "name": "Floor Lamps",
+      "id": 12,
+      "parentId": 2
+    },
+    {
+      "name": "Outdoor Lighting",
+      "id": 13,
+      "parentId": 2
+    },
+    {
+      "name": "Rugs and CurtainsCarpets",
+      "id": 14,
+      "parentId": 3
+    },
+    {
+      "name": "Curtains and Blinds",
+      "id": 15,
+      "parentId": 3
+    },
+    {
+      "name": "Wall Art and Mirrors",
+      "id": 16,
+      "parentId": 3
+    },
+    {
+      "name": "Cushions and Throws",
+      "id": 17,
+      "parentId": 3
+    },
+    {
+      "name": "Vases and Plant Pots",
+      "id": 18,
+      "parentId": 3
+    },
+    {
+      "name": "Cabinets and Pantries",
+      "id": 19,
+      "parentId": 4
+    },
+    {
+      "name": "Countertops",
+      "id": 20,
+      "parentId": 4
+    },
+    {
+      "name": "Sinks and Faucets",
+      "id": 21,
+      "parentId": 4
+    },
+    {
+      "name": "Kitchen Islands and Carts",
+      "id": 22,
+      "parentId": 4
+    },
+    {
+      "name": "Backsplashes",
+      "id": 23,
+      "parentId": 4
+    },
+    {
+      "name": "Vanities and Cabinets",
+      "id": 24,
+      "parentId": 5
+    },
+    {
+      "name": "Showers and Bathtubs",
+      "id": 25,
+      "parentId": 5
+    },
+    {
+      "name": "Toilets and Bidets",
+      "id": 26,
+      "parentId": 5
+    },
+    {
+      "name": "Bathroom Sinks",
+      "id": 27,
+      "parentId": 5
+    },
+    {
+      "name": "Mirrors and Medicine Cabinets",
+      "id": 28,
+      "parentId": 5
+    }
+    
+
+    
+
+  ],
+  "users":[
+    {
+      "name":"nguyentuyencanh",
+      "pass":"12345678"
+    }
+  ]
+}
